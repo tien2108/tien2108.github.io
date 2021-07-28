@@ -1027,7 +1027,7 @@
 }
 
 .footer {
-  background-image: url(http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/parallax-7.jpg?id=1602);
+  background-image: url(../img/footer-background.jpg);
   background-position: center;
   background-size: cover;
   display: flex;
