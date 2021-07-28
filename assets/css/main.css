@@ -602,6 +602,7 @@
 .search__aside-img {
   width: 30%;
   height: 50%;
+  margin-top: 16px;
 }
 
 .search__aside-link {
