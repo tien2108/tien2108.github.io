@@ -825,7 +825,7 @@
 .special__detail {
   display: flex;
   justify-content: space-between;
-  margin: 40px 0;
+  margin: 40px 8px;
 }
 
 .special__detail-img {

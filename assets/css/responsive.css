@@ -15,8 +15,8 @@
 
   .footer__contact {
     flex-direction: column;
-    padding-left: 0;
-    padding-right: 0;
+    padding-left: 12px;
+    padding-right: 12px;
   }
 
   .footer__contact-name {
